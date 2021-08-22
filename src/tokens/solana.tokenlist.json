@@ -11748,6 +11748,25 @@
         "website": "https://www.solanasail.com",
         "twitter": "https://twitter.com/SolanaSail"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "FxjbQMfvQYMtZZK7WGEJwWfsDcdMuuaee8uPxDFFShWh",
+      "symbol": "UPFI",
+      "name": "UPFI stable coin of UPFI network",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxjbQMfvQYMtZZK7WGEJwWfsDcdMuuaee8uPxDFFShWh/logo.png",
+      "tags": [
+        "stablecoin"
+      ],
+      "extensions": {
+        "website": "https://upfi.network/",
+        "twitter": "https://twitter.com/upfi_network",
+        "medium": "https://upfinetwork.medium.com",
+        "discord": "https://discord.gg/nHMDdyAggx",
+        "telegram": "https://t.me/upfinetworkchannel",
+        "facebook": "https://www.facebook.com/UPFInetwork"
+      }
     }
   ],
   "version": {
