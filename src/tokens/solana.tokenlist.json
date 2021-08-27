@@ -11745,7 +11745,7 @@
       "chainId": 101,
       "address": "EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7",
       "symbol": "UPS",
-      "name": "UPFI network token",
+      "name": "UPS token (UPFI Network)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EwJN2GqUGXXzYmoAciwuABtorHczTA5LqbukKXV1viH7/logo.png",
       "tags": [],
@@ -11779,7 +11779,7 @@
       "chainId": 101,
       "address": "FxjbQMfvQYMtZZK7WGEJwWfsDcdMuuaee8uPxDFFShWh",
       "symbol": "UPFI",
-      "name": "UPFI stable coin of UPFI network",
+      "name": "UPFI stablecoin (UPFI Network)",
       "decimals": 6,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FxjbQMfvQYMtZZK7WGEJwWfsDcdMuuaee8uPxDFFShWh/logo.png",
       "tags": [
@@ -11791,7 +11791,8 @@
         "medium": "https://upfinetwork.medium.com",
         "discord": "https://discord.gg/nHMDdyAggx",
         "telegram": "https://t.me/upfinetworkchannel",
-        "facebook": "https://www.facebook.com/UPFInetwork"
+        "facebook": "https://www.facebook.com/UPFInetwork",
+        "serumV3Usdc": "SyQ4KyF5Y1MPPkkf9LGNA6JpkVmis53HrpPvJ1ZUFwK"
       }
     }
   ],
